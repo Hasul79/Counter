@@ -1,0 +1,23 @@
+body {
+    padding-top:50px;
+    text-align:center ;
+}
+
+#counter {
+    color:#666;
+    font-size:150px;
+    margin: 0 auto;
+    display:block;
+    background-color:#fff;
+    text-align:center ;
+}
+
+#btnAdd, #btnSub {
+    margin:20px 5px;
+    font-size:40px;
+    width:100px;
+}
+h1{
+	text-transform: uppercase;
+	font-size: 60px;
+}
